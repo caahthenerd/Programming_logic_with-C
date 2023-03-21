@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main(void) {
+void main(void) {
   int num = 0;
 
   for(int i = 0; i < 500; i++ ){

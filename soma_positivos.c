@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int somapositivos(void) {
+void main(void) {
   int num = 0;
   int soma = 0;
 

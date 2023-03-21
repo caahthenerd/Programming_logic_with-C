@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-void parImparFor(void) {
+void main(void) {
   int num = 0;
   int par = 0;
   int impar = 0;

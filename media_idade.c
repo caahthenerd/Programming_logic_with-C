@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void mediaIdade(void) {
+void main(void) {
   int qtdPessoas = 0;
   int idade = 0;
   int mediaIdade = 0;

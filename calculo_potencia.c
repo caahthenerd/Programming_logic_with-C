@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void calculoPotencia(void) {
+void main(void) {
   int valorBase = 0;
   int valorExpoente = 0;
   int total = 1;

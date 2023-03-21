@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int somaimpar(void) {
+void main(void) {
   int int1 = 0;
   int int2 = 0;
   int somamais1 = 0;

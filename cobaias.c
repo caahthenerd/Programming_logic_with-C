@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int cobaias(void) {
+void main(void) {
   int cob1 = 0;
   int cob2 = 0;
   int cob3 = 0;

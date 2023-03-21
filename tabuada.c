@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void tabuada(void) {
+void main(void) {
   int numero = 0;
   // int valorNumerico = 1;
   int totalTabuada = 0;

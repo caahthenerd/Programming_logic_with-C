@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void parImpar(void) {
+void main(void) {
   int num = 0;
   printf("Informe um número:\n");
   scanf("%d", &num);

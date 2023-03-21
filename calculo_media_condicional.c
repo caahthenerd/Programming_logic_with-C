@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void calMedia(void) {
+void main(void) {
   float nota1 = 0;
   float nota2 = 0;
   float media = 0;

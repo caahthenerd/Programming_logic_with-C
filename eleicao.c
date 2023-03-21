@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-void eleicao(void) {
+void main(void) {
   int totalEleitores = 0;
   int numCandidato = 0;
   int voto1 = 0;

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void menorMaior(void) {
+void main(void) {
   int idade = 0;
   printf("Informe a idade:\n");
   scanf("%d", &idade);

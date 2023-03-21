@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-void intervaloNumeros(void) {
+void main(void) {
   int num = 0;
   int dentroInt = 0;
   int foraInt = 0;

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+void main(void) {
   float nota = 0;
   float soma = 0;
   float media = 0;
